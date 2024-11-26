@@ -1,0 +1,6 @@
+.servicesname::-webkit-scrollbar { 
+    display: none; 
+}
+.servicedetials .dark{
+    color:red;
+}
